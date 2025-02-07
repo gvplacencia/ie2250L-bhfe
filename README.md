@@ -1,5 +1,5 @@
 # ie2250L-bhfe
-IE 2250L Course Improvement 
+## IE 2250L Course Improvement 
 ## Objective:
   To create an HFE data centered course that:
     - Improves HFE empirical data science education
