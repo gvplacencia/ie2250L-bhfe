@@ -7,7 +7,7 @@ IE 2250L Course Improvement
     - Improves student ability to create data narratives
     - Improves student ability in computational thinking proceses
     - Create a digital human for simulation and analysis
-## Idnetified Areas
+## Identified Areas
   1) 1 Lab that teaches students:
        basic experimental design
        data analysis
